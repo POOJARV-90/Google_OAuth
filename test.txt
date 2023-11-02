@@ -1,0 +1,2 @@
+clientId="975298386048-a1f5jvfcctd35f2ckfnvte2mgrrl680n.apps.googleusercontent.com"
+secret="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"
